@@ -1,7 +1,7 @@
 # Proc_Image
 Small and simple image processing library
 
-#How to Install The Library?
+# How to Install The Library?
 ## pip install ProcImage
 
 ## First, this is a simple and compact package for image processing and hardware management developed using the Pillow package
@@ -79,7 +79,7 @@ print(my_object.best_image(r"C:\Users\Alaa\Pictures"))
 
 ```
 
-#Output 
+# Output 
 ##### ['A.jpg', 6400, 'C:\\Users\\Alaa\\Pictures']
 
 
